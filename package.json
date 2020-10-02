@@ -11,5 +11,9 @@
     "cli"
   ],
   "author": "Arcoloid",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "yargs": "^16.0.3"
+  }
 }
