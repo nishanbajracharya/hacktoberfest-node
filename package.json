@@ -1,0 +1,15 @@
+{
+  "name": "hacktoberfest-node",
+  "version": "1.0.0",
+  "description": "CLI tool to check hacktoberfest status",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "cli"
+  ],
+  "author": "Arcoloid",
+  "license": "MIT"
+}
